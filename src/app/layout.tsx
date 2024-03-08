@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import { Poppins } from "next/font/google";
 import Script from "next/script";
 import NextTopLoader from 'nextjs-toploader';
-import Navbar from "./Header/Navbar";
-import Footer from "./Footer/Footer";
+// import Navbar from "./Header/Navbar";
+// import Footer from "./Footer/Footer";
 
 const poppins = Poppins({
   subsets: ["latin"],
