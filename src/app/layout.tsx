@@ -67,9 +67,9 @@ export default function RootLayout({
       />
       <body className={poppins.className}>
       <NextTopLoader color="#28af60" showSpinner={false}/>
-      <Navbar/>
+{/*       <Navbar/> */}
         {children}
-        <Footer/>
+{/*         <Footer/> */}
       </body>
     </html>
   );
