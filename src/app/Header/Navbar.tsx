@@ -114,16 +114,6 @@ const user = getUser();
               ></IonIcon>
             </button>
           </div>
-
-          <ul className="navbar-list">
-            <NavItem label="Home" />
-            <NavItem label="About" />
-            <NavItem label="E-Facilities" />
-            <NavItem label="Recycle" />
-            <NavItem label="Education" />
-            <NavItem label="Contactus" />
-            <NavItem label="Rules" />
-          </ul>
         </nav>
 
         <h1 className='font-montserrat font-bold text-xl ml-12 md:ml-4 md:text-2xl text-emerald-600 flex items-center gap-[1vh]'>
