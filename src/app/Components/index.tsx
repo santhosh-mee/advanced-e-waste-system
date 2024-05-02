@@ -8,9 +8,9 @@ type Props = {}
 const Home = (props: Props) => {
   return (
     <>
-{/*     <Hero/>
+    <Hero/>
     <Features/>
-    <FAQ/> */}
+    <FAQ/>
     </>
   )
 }
