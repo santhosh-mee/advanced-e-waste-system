@@ -69,7 +69,7 @@ export default function RootLayout({
       <NextTopLoader color="#28af60" showSpinner={false}/>
       <Navbar/>
         {children}
-        <Footer/>
+{/*         <Footer/> */}
       </body>
     </html>
   );
